@@ -1,0 +1,8 @@
+Blueprint for Cleaning data
+
+- Audit your data
+- Create a data cleaning plan
+- Execute the plan
+- Manually correction
+
+Iterate over again
